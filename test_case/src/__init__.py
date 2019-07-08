@@ -2,8 +2,8 @@
 
 # -------------------------------------------------------------------------------
 # ProjectName:  interface_test
-# Name:         common_interface_controller
-# Description:
+# Name:         __init__.py
+# Description:  
 # Author:       hanzhuang
 # Date:         2019-07-01
 # -------------------------------------------------------------------------------
